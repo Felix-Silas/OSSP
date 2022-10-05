@@ -4,4 +4,5 @@ fetch & merge
 A
 B
 C
- D   
+D
+E 
