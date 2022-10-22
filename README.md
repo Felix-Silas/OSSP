@@ -6,4 +6,4 @@ B
 C
 D
 E
-merge 연습하기!
+F
