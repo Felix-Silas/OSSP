@@ -5,5 +5,4 @@ A
 B
 C
 D
-E 
-rebase rebase
+E
